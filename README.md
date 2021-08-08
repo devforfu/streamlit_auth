@@ -25,3 +25,9 @@ Open a link printed to the terminal with your browser. Then you'll see a
 password-protected dashboard as the following GIF shows.
 
 ![Authentication example](assets/auth.gif)
+
+
+## References
+
+1) [Discussion on Streamlit forum](https://discuss.streamlit.io/t/user-authentication/612/53)
+2) [Hacking session state](https://gist.github.com/tvst/036da038ab3e999a64497f42de966a92)
